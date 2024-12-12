@@ -1,0 +1,32 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: RobotAuditTrail.Test Debug",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/RobotAuditTrail.Test/RobotAuditTrail.Test.csproj"
+        },
+        {
+            "name": "C#: RobotAuditTrail.Solution Debug",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/RobotAuditTrail.Solution/RobotAuditTrail.Solution.csproj"
+        },
+        {
+            "name": "C#: RobotAuditTrail.Solution.ExtraCredit Debug",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/RobotAuditTrail.Solution.ExtraCredit/RobotAuditTrail.Solution.ExtraCredit.csproj"
+        },
+        {
+            "name": "C#: RobotAuditTrail.Solution.ExtraExtraCredit Debug",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/RobotAuditTrail.Solution.ExtraExtraCredit/RobotAuditTrail.Solution.ExtraExtraCredit.csproj"
+        }
+    ]
+}
